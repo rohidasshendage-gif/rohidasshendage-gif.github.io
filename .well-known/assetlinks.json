@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.rohidasshendage_gif.twa",
+    "sha256_cert_fingerprints": ["66:96:87:2C:42:92:87:57:91:E9:72:AE:8E:2D:88:53:F1:05:D7:8D:2E:34:02:79:E8:73:3E:53:10:E1:F6:BA"]
+  }
+}]
